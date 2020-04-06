@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 罗锦荣
-email: obarong#qq.com
+email: obarong#qq.com（把#替换成@）
 description: >- # this means to ignore newlines until "baseurl:"
   冲出地球，移民宇宙！
 baseurl: "" # the subpath of your site, e.g. /blog

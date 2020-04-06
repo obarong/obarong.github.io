@@ -1,18 +1,111 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![](about.assets/ljr.jpg)
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+## 基本信息
+
+- 男，28岁，本科，毕业于五邑大学，电子信息工程专业。
+- 现居中国佛山。
+- GitHub：[https://github.com/obarong](https://github.com/obarong)
+- 个人主页：[https://obarong.github.io/](https://obarong.github.io/)
+- 邮箱：obarong#qq.com（把#替换成@）
+
+
+
+## 技能专长
+
+1. 熟悉Android/iOS开发，能独立开发APP，协同维护Android系统，4年经验。
+2. 熟悉汇编、C/C++、C#、JAVA、Objective-C等语言，能独立设计程序。
+3. 熟练搭建Windows+Apache+MySQL+PHP服务器，能独立管理微信公众号、个人网站和discuz论坛，半年经验。
+4. 熟悉Dreamweaver网页设计，熟悉HTML、PHP、JavaScript、XML语言，了解TCP/IP协议。
+5. 熟悉3DMAX、Unity3D、UE4，能搭建3D场景，开发3D VR游戏。
+6. 熟悉Linux系统、bootloader、shell下的C语言编程。
+7. 有阿里巴巴、淘宝、慧聪电商网店管理经验。 
+8. 精通电脑操作，能解决大部分电脑问题，能熟练使用Word/Excel办公软件和各种工具软件。
+9. 熟悉各种电子设计软件（Keil、Protel 99SE、Altium Designer、Proteus、AutoCAD等），熟悉模拟电路设计、数字电路设计、51单片机应用、电子系统开发。
+10. 熟悉嵌入式Linux系统和Linux下的C语言编程，了解ARM嵌入式开发。
+11. 熟悉Verilog HDL语言和Altera公司的QuartusII开发软件，了解FPGA开发。
+12. 熟悉camera的3A、DFC、HDR等ISO流程，有camera调试经验。
+13. 熟悉BLE、经典蓝牙开发。
+
+
+
+## 工作经历
+
+**2014 /6--2014 /9：佛山朗市亿科技有限公司（少于50人）**
+
+所属行业：电子技术/半导体/集成电路
+
+岗位：销售部，外贸跟单
+
+1. 负责跟踪生产日本客户的后备电源。
+
+
+
+**2014 /10--2015 /4：广东健博通科技股份有限公司（多于500人）**
+
+所属行业：电子技术/半导体/集成电路
+
+岗位：质量管理部，QC
+
+1. 负责天线生产FQC。
+2. 负责天线物料IQC。
+
+
+
+**2015 /5--2016 /6： 佛山市恒和泰电子科技有限公司（少于50人）** 
+
+所属行业：电子技术/半导体/集成电路
+
+岗位：技术部，电子工程师/技术员     
+
+1. 完成超声波加湿器的电气原理设计、程序设计、测试，解决了高频音、电压波形不稳定、元件发热大等问题； 
+2. 完成采购、生产管理、仓管、收发货，完成2个订单共计11k台加湿器。 
+
+
+
+**2016 /7--至今：广东南海鹰视通达科技有限公司（少于50人）** 
+
+所属行业：电子技术/半导体/集成电路/软件
+
+岗位：研发部，软件工程师
+
+1. 完成《VR鞋店》《VR样板房》《厨神VR》等游戏开发工作。
+2. 负责开发维护鹰视眼镜Android端和iOS端APP、SDK，维护眼镜端Android系统。
+3. 完成平安样板工程、一期项目，负责管理、开发、维护。
+4. 正在进行桂城智慧城市等项目，负责管理、开发、维护。
+5. 负责客户服务，售前技术咨询，售后维修咨询。
+6. 负责维护局域网服务器。
+7. 负责整理、备份资料，编写开发文档和管理文档。
+
+
+
+## 项目经验
+
+2012年11月，基于ICL 8038的函数发生器
+
+2013年3月 ，出租车计价器
+
+2013年9月 ，基于ARM的光电式脉搏传感器
+
+2013年10月，基于51单片机的温度测量仪
+
+2014年4月 ，脉搏波形采集存储系统的设计
+
+2015年5月，超声波加湿器
+
+2016年7月，《VR鞋店》《VR样板房》《厨神VR》
+
+2017年，鹰视眼镜
+
+2017年7月，量子实验模拟器（搁置）
+
+2018年12月，小白计划（罗小白任务管理系统，搁置）
+
+2020年1月，移民宇宙计划（正往搁置的路上）
