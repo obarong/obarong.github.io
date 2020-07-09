@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![](about.assets/ljr.jpg)
+![](/img/about.assets/ljr.jpg)
 
 
 
